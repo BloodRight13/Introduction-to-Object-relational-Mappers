@@ -1,1 +1,0 @@
-my_password = 'My*2020*SQL!'
